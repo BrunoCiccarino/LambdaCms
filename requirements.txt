@@ -1,0 +1,5 @@
+django==5.0.7
+djangorestframework==3.15.2
+python-dotenv==1.0.1
+django-cors-headers==4.4.0
+locust==2.29.1
