@@ -4,16 +4,4 @@
 
 CMS (Content management system), is a program used to create, edit, publish and manage content on digital platforms and pre-structured online pages; allowing it to be modified, removed and added without the need to have knowledge of the HTML markup language. In other words, it is a system that allows the creation, storage and administration of content dynamically
 
-This LambdaCms repository is the official repository of our CMS api developed exclusively to be used in our forum, most of our forum will be open source so that users can contribute in some way to our project. 
-
-## And how can we contribute?
-
-To contribute, we have a code conduct guide so that we can continue development in an easier way, keeping the code organized, well-structured and clean. You can read this guide by clicking on this link which will redirect you to the code [conduct document](CONTRIBUTE.md).
-
-## Contributors
-
-This project exists thanks to all the people who contribute. 
-
-<a href="https://github.com/LamdaOrder/LambdaCms/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LambdaOrder/LambdaCms&max=24" />
-</a>
+This repository is a historical repository of the lambda forum, I will not update it anymore, I will only work on the new cms api that we are developing in the repository in the LambdaOrder org
